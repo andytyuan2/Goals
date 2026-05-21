@@ -1,9 +1,15 @@
 <mxfile host="app.diagrams.net">
-  <diagram name="Career Goals" id="lFKvBB6b-XrrSRPfjqy5">
-    <mxGraphModel dx="1414" dy="838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+  <diagram name="5Y Career Goals" id="lFKvBB6b-XrrSRPfjqy5">
+    <mxGraphModel dx="2264" dy="1938" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="r-euSAyKeOusE3sjUJ8c-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Working in a climate risk or environmental hazards risk lab / department in either finance or with the government. Earning over 150k CAD.&amp;nbsp;" vertex="1">
+          <mxGeometry height="180" width="310" x="-270" y="-260" as="geometry" />
+        </mxCell>
+        <mxCell id="r-euSAyKeOusE3sjUJ8c-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Create connections with machine learning scientists working with spatial data and extremes" vertex="1">
+          <mxGeometry height="150" width="310" x="-270" y="-30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
